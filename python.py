@@ -1,2 +1,3 @@
-Hello Git!
-print("This is the updated Python file!")
+Hello gti
+This is the updated Python file!
+
